@@ -1,28 +1,24 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Quinnlan Smith
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Quinnlan
+last_name: Smith
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student - University of Wisconsin - Madison
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Quinnlan Smith
+    url: https://quinnlanconnorsmith.netlify.app
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include fisheries ecology, conservation, and management.
 
 # Interests to show in About widget
 interests:
