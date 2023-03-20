@@ -239,7 +239,6 @@ sections:
       title: Contact
       subtitle:
       email: qcsmith2@wisc.edu
-      phone: 612-323-9790
       address:
         street: Hasler Laboratory of Limnology - 680 Park St. 
         city: Madison
@@ -249,14 +248,6 @@ sections:
         country_code: US
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
