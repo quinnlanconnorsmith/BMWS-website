@@ -3,41 +3,31 @@
 title: Test
 
 # Full name (for SEO)
-first_name: Quinnlan
-last_name: Smith
+first_name: Test
+last_name: Person
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Test
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Quinnlan Smith
+  - name: Test Person
     url: https://quinnlan-connor-smith.netlify.app
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fisheries ecology, conservation, and management.
+bio: My research interests .
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -78,6 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-Quinn Smith info
+Test info
 
 {style="text-align: justify;"}
