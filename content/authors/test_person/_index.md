@@ -36,22 +36,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/QuinnlanSmith
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 
   - icon: researchgate #Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Quinnlan-Smith
+    link: 
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0001-6850-1504
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/quinnlanconnorsmith
+    link: 
 
     
   # Link to a PDF of your resume/CV.
