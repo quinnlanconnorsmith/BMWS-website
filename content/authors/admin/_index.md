@@ -62,16 +62,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/quinnlanconnorsmith
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/quinnlanconnorsmith/
+
     
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -81,4 +79,5 @@ highlight_name: true
 ---
 
 Quinn Smith info
+
 {style="text-align: justify;"}
