@@ -12,10 +12,10 @@ sections:
         filename: qs_tag_wae2.png
       cta:
         label: '**A link to something**'
-        url: https://wowchemy.com/templates/
+        url: 
       cta_alt:
         label: Secondary link
-        url: https://discord.gg/z8wNYzb
+        url: 
       
       text: |-
         **In-progress website - do not distribute**
