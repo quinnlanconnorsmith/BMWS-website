@@ -9,7 +9,7 @@ sections:
     content:
       title: Walleye Bright Spots 
       image:
-        filename: hero-academic.png
+        filename: qs_tag_wae2.png
       cta:
         label: '**A link to something**'
         url: https://wowchemy.com/templates/
