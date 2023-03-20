@@ -66,6 +66,6 @@ email: ''
 highlight_name: true
 ---
 
-Quinn Smith info
+I am a fisheries biologist with interests relating to the conservation and management of fish communities, the influence of climate change on the ecology, fisheries, and population dynamics within lake systems, human effects on ecosystems, and water column effects due to changing light conditions.
 
 {style="text-align: justify;"}
