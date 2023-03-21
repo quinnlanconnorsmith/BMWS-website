@@ -192,7 +192,8 @@ sections:
       text: |-
         {{< gallery album="bmws" >}}
     design:
-      columns: '2'
+      columns: '1'
+      view: card
   - block: collection
     id: featured
     content:
