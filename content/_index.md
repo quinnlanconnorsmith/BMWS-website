@@ -12,10 +12,10 @@ sections:
         filename: qs_tag_wae2.png
       cta:
         label: '**A link to something**'
-        url: 
+        url: https://quinnlan-connor-smith.netlify.app/
       cta_alt:
         label: Secondary link
-        url: 
+        url: https://quinnlan-connor-smith.netlify.app/
       
       text: |-
         **In-progress website - do not distribute**
@@ -59,7 +59,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Timeline 
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006

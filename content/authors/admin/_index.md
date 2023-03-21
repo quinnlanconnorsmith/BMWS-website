@@ -14,7 +14,7 @@ role: PhD Student - University of Wisconsin - Madison
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Quinnlan Smith
+  - name: Website 
     url: https://quinnlan-connor-smith.netlify.app
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,9 +34,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/QuinnlanSmith
