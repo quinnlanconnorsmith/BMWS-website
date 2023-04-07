@@ -45,18 +45,30 @@ sections:
     content:
       title: Institutions
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: University of Wisconsin - Madison
+          description: 
+          icon: 
+          icon_pack: 
+        - name: University of Wisconsin - Steven's Point
+          description: 
+          icon: 
+          icon_pack: 
+        - name: University of Minnesota - Twin Cities 
+          description: 
+          icon: 
+          icon_pack: 
+        - name: United States Geological Survey 
+          description: 
+          icon: 
+          icon_pack:
+        - name: Great Lakes Indian Fish & Wildlife Commission 
+          description: 
+          icon: 
+          icon_pack:
+        - name: Wisconsin Department of Natural Resources
+          description: 
+          icon: 
+          icon_pack:
   - block: experience
     content:
       title: Timeline
