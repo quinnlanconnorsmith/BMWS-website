@@ -43,7 +43,7 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Institutions
       items:
         - name: R
           description: 90%
@@ -57,7 +57,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: timeline
+  - block: experience
     content:
       title: Timeline 
       # Date format for experience
