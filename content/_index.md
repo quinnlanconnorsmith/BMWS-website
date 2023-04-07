@@ -57,9 +57,9 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: experience
+  - block: timeline
     content:
-      title: Experience 
+      title: Timeline
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
