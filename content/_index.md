@@ -143,33 +143,33 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
+#  - block: collection
+#    id: posts
+#    content:
+#      title: Updates 
+#      subtitle: ''
+#      text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+#      count: 5
       # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+#      filters:
+#        folders:
+#          - post
+#        author: ""
+#        category: ""
+#        tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+#      offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+#      order: desc
+#    design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+#      view: compact
+#      columns: '2'
   - block: portfolio
     id: projects
     content:
