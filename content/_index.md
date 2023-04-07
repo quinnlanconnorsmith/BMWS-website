@@ -187,9 +187,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
+        - name: Walleye Behavior
+          tag: Walleye Behavior
+        - name: Another Project
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
