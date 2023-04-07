@@ -7,6 +7,9 @@ main:
   - name: People
     url: '#about'
     weight: 10
+  - name: Timeline
+    url: '#timeline'
+    weight: 20
   - name: Projects
     url: '#projects'
     weight: 30

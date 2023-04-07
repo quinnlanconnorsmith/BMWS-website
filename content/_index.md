@@ -70,6 +70,7 @@ sections:
           icon: 
           icon_pack:
   - block: experience
+    id: timeline
     content:
       title: Timeline
       # Date format for experience
