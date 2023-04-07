@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: Walleye behavior goodies 
 tags:
   - Walleye Behavior
 date: '2016-04-27T00:00:00Z'
