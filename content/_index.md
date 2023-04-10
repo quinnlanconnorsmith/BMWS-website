@@ -55,6 +55,8 @@ sections:
       username: test_person
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    design:
+      columns: '2'
   - block: features
     content:
       title: Institutions
