@@ -221,7 +221,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Project Gallery
       subtitle: ''
       text: |-
         {{< gallery album="bmws" >}}
@@ -242,7 +242,7 @@ sections:
   - block: collection
     id: pubs
     content:
-      title: Recent Publications
+      title: Project Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
