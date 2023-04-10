@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Test
+title: Chris Rounds
 
 # Full name (for SEO)
 first_name: Chris
@@ -21,7 +21,7 @@ organizations:
 bio: My research interests .
 
 # Interests to show in About widget
-interests:  I am interested in the anthropogenic impacts on aquatic ecosystems, mainly in the form of invasive species and climate change.
+interests:
 
 
 # Education to show in About widget
@@ -54,6 +54,6 @@ email: ''
 highlight_name: true
 ---
 
-Test info
+I am interested in the anthropogenic impacts on aquatic ecosystems, mainly in the form of invasive species and climate change.
 
 {style="text-align: justify;"}
