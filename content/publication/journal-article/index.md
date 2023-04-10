@@ -4,6 +4,7 @@ authors:
 - admin
 - chris 
 - ben
+- holly
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -57,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: Example Project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
