@@ -9,6 +9,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
+- "You can also add things like addresses here!"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
