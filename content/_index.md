@@ -82,19 +82,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Walleye Acoustic Telemetry & Archival Tag
+          company: 
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: 
+          location: Escanaba, Sparkling & McDermott Lakes
+          date_start: '2022-05-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              A checklist of things:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Habitat use
+              * Movement within systems 
         - title: McDermott Lake Centrarchid Removal
           company: 
           company_url: ''
