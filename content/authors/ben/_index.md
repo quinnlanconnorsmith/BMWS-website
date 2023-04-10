@@ -10,7 +10,7 @@ last_name: Vasquez
 superuser: false
 
 # Role/position/tagline
-role: MS Student - Univeristy of Wisconsin - Steven's Point
+role: MS Student - Univeristy of Wisconsin - Stevens Point
 
 # Organizations/Affiliations to show in About widget
 organizations:
