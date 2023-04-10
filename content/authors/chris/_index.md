@@ -18,10 +18,10 @@ organizations:
     url: https://round060.github.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests .
+bio: I am interested in the anthropogenic impacts on aquatic ecosystems, mainly in the form of invasive species and climate change.
 
 # Interests to show in About widget
-interests:
+interests: I am interested in the anthropogenic impacts on aquatic ecosystems, mainly in the form of invasive species and climate change.
 
 
 # Education to show in About widget
