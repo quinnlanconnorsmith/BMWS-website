@@ -266,7 +266,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
+      subtitle: Feel free to contact me with any questions about the project!
       email: qcsmith2@wisc.edu
       address:
         street: Hasler Laboratory of Limnology - 680 Park St. 
