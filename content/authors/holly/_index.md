@@ -10,7 +10,7 @@ last_name: Embke
 superuser: false
 
 # Role/position/tagline
-role: PI - United States Geological Survey
+role: Principle Investigator - United States Geological Survey
 
 # Organizations/Affiliations to show in About widget
 organizations:
