@@ -9,7 +9,7 @@ sections:
     content:
       title: Walleye Bright Spots 
       image:
-        filename: qs_tag_wae2.png
+        filename: gh_wae.png
       cta:
         label: '**A link to something**'
         url: https://quinnlan-connor-smith.netlify.app/
