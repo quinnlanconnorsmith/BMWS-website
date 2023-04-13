@@ -14,7 +14,7 @@ role: Collaborator - Wisconsin Department of Natural Resources
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Greg G. Sass
+  - name: 
     url: 
 
 # Short bio (displayed in user profile at end of posts)
