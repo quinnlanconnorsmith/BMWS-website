@@ -5,9 +5,9 @@ authors:
 - chris 
 - ben
 - holly
--jake
--gretchen
--greg
+- jake
+- gretchen
+- greg
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
