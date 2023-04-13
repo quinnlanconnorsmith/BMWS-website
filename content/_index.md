@@ -10,7 +10,6 @@ sections:
       title: Walleye Bright Spots 
       image:
         filename: gh_wae.png
-          caption: Photo provided by G. Hansen
       cta:
         label: '**A link to something**'
         url: https://quinnlan-connor-smith.netlify.app/
