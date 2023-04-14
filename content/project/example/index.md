@@ -2,6 +2,7 @@
 title: Example Project
 authors:
 - ben
+- Another Author
 
 summary: Walleye behavior goodies 
 tags:
