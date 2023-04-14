@@ -1,6 +1,6 @@
 ---
 title: Littoral Habitat Modeling 
-summary: More WAE behavior goodies 
+summary: Fine-scale littoral zone habitat modeling in Escanaba, Sparkling, and McDermott Lakes 
 tags:
   - Habitat Modeling 
 date: '2016-04-27T00:00:00Z'
