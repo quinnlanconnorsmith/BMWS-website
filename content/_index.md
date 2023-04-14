@@ -243,6 +243,8 @@ sections:
           tag: Walleye Behavior
         - name: Another Project
           tag: Demo
+        - name: Habitat Modeling
+          tag: Habitat Modeling
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
