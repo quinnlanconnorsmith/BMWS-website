@@ -1,7 +1,6 @@
 ---
 title: Example Project
 authors:
-- admin
 - ben
 
 summary: Walleye behavior goodies 
