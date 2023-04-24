@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jake Vander Zanden
+title: Dr. Jake Vander Zanden
 
 # Full name (for SEO)
 first_name: Jake

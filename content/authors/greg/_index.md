@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Greg G. Sass
+title: Dr. Greg G. Sass
 
 # Full name (for SEO)
 first_name: Greg

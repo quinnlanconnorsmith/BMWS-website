@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Holly Embke
+title: Dr. Holly Embke
 
 # Full name (for SEO)
 first_name: Holly
