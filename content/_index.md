@@ -76,6 +76,9 @@ sections:
       username: aaron
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      cta:
+        label: '**A link to something**'
+        url: https://quinnlan-connor-smith.netlify.app/
   - block: about.avatar
     id: about
     content:
