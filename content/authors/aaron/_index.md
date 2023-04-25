@@ -16,7 +16,10 @@ role: Collaborator - Great Lakes Indian Fish and Wildlife Commission
 organizations:
   - name: Website
     url: http://glifwc.org/
-
+  - name: Midwest Glacial Lakes Partnership 
+    url: https://midwestglaciallakes.org/
+  - name: Fisheries Conservation Foundation 
+    url: https://www.fishconserve.org/
 # Short bio (displayed in user profile at end of posts)
 bio: Boozhoo (hello), my name is Aaron Shultz, and I am a climate change fisheries biologist with the Great Lakes Indian Fish and Wildlife Commission (GLIFWC).  My research and management interests include weaving together indigenous knowledge and scientific knowledge, evaluating the effects of catch-and-release angling, assessing the vulnerability of beings (species) to climate change, developing climate adaptation plans, and designing rehabilitation plans for aquatic ecosystems.  In addition to my role at GLIFWC, I serve on the steering committee for Midwest Glacial Lakes Partnership and am on the board of directors for the Fisheries Conservation Foundation.
 
