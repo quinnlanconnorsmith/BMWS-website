@@ -91,6 +91,8 @@ sections:
           description: 
           icon: 
           icon_pack: 
+          cta:
+            url: https://quinnlan-connor-smith.netlify.app/
         - name: University of Wisconsin - Steven's Point
           description: 
           icon: 
