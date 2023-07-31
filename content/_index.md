@@ -83,13 +83,13 @@ sections:
 
               * Habitat use
               * Movement within systems 
-        - title: Another thing to do
+        - title: Walleye Safe Operating Space
           company: 
-          company_url: ''
-          company_logo: 
+          company_url: 'https://www.sciencebase.gov/catalog/item/573f4df1e4b04a3a6a24ae6b'
+          company_logo: sci-base-w
           location: Location
-          date_start: '2022-05-01'
-          date_end: ''
+          date_start: '2016-05-04'
+          date_end: '2022-09-30'
           description:
         - title: Climate Change and Resilience of Sport Fisheries in Lakes 
           company: 
