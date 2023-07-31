@@ -116,7 +116,35 @@ sections:
     design:
       columns: '2'
       view: citation
-      
+ 
+  - block: features
+    content:
+      title: Institutions
+      items:
+        - name: University of Wisconsin - Madison
+          description: 
+          icon: 
+          icon_pack: 
+        - name: University of Wisconsin - Steven's Point
+          description: 
+          icon: 
+          icon_pack: 
+        - name: University of Minnesota - Twin Cities 
+          description: 
+          icon: 
+          icon_pack: 
+        - name: United States Geological Survey 
+          description: 
+          icon: 
+          icon_pack:
+        - name: Great Lakes Indian Fish & Wildlife Commission 
+          description: 
+          icon: 
+          icon_pack:
+        - name: Wisconsin Department of Natural Resources
+          description: 
+          icon: 
+          icon_pack:     
   - block: about.avatar
     id: about
     content:
@@ -171,34 +199,7 @@ sections:
       text:
     design:
       rows: '0.5'
-  - block: features
-    content:
-      title: Institutions
-      items:
-        - name: University of Wisconsin - Madison
-          description: 
-          icon: 
-          icon_pack: 
-        - name: University of Wisconsin - Steven's Point
-          description: 
-          icon: 
-          icon_pack: 
-        - name: University of Minnesota - Twin Cities 
-          description: 
-          icon: 
-          icon_pack: 
-        - name: United States Geological Survey 
-          description: 
-          icon: 
-          icon_pack:
-        - name: Great Lakes Indian Fish & Wildlife Commission 
-          description: 
-          icon: 
-          icon_pack:
-        - name: Wisconsin Department of Natural Resources
-          description: 
-          icon: 
-          icon_pack:
+  
   
 #  - block: accomplishments
 #    content:
