@@ -45,8 +45,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Walleye Behavior
-          tag: Walleye Behavior
+        - name: Past Projects
+          tag: past
         - name: Another Project
           tag: Demo
         - name: Habitat Modeling
@@ -61,7 +61,7 @@ sections:
   - block: experience
     id: timeline
     content:
-      title: Timeline
+      title: Project Timelines
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
