@@ -71,12 +71,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Walleye Acoustic Telemetry & Archival Tag
+        - title: Walleye Bright Spots 
           company: 
-          company_url: ''
-          company_logo: 
-          location: Escanaba, Sparkling & McDermott Lakes
-          date_start: '2022-05-01'
+          company_url: 'https://www.sciencebase.gov/catalog/item/627c0f97d34e8d45aa6ee6b9'
+          company_logo: sci-base
+          location: Minnesota, Michigan, Wisconsin, USA
+          date_start: '2021-11-01'
           date_end: ''
           description: |2-
               A checklist of things:
@@ -86,11 +86,11 @@ sections:
         - title: Walleye Safe Operating Space
           company: 
           company_url: 'https://www.sciencebase.gov/catalog/item/573f4df1e4b04a3a6a24ae6b'
-          company_logo: sci-base-w
-          location: Location
+          company_logo: sci-base
+          location: Wisconsin, USA
           date_start: '2016-05-04'
           date_end: '2022-09-30'
-          description:
+          description: Walleye, a socially and economically important sportfish across much of North America, are experiencing population declines in many lakes throughout their range. Studies suggest that multiple factors – potentially linked to climate change – are contributing to the decline of walleye, including changes in lake temperatures, loss of habitat, increasing water clarity (perhaps due to drought), and interactions with other fish. This research seeks to identify the mechanisms that underlie declining walleye populations, particularly the low survival rate of young walleye. Data will be collected through a whole-lake experiment, an analysis of long-term data from lakes in northern Wisconsin, and simulation modeling. Members of the research team will work closely with fisheries managers. The goal of this project is to increase our understanding of the conditions that are needed to maintain self-sustaining walleye populations (their “safe operating space”) and to inform a new vision for recreational fisheries management in a changing climate.
         - title: Climate Change and Resilience of Sport Fisheries in Lakes 
           company: 
           company_url: 'https://www.sciencebase.gov/catalog/item/52b4603ee4b029a4958d603f'
