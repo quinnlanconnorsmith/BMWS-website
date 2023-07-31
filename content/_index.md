@@ -94,7 +94,7 @@ sections:
         - title: Climate Change and Resilience of Sport Fisheries in Lakes 
           company: 
           company_url: 'https://www.sciencebase.gov/catalog/item/52b4603ee4b029a4958d603f'
-          company_logo: 
+          company_logo: sci-base
           location: Wisconsin, USA
           date_start: '2011-04-01'
           date_end: '2015-04-01'
