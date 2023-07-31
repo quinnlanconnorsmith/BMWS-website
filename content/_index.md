@@ -57,15 +57,65 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
+      
+  - block: experience
+    id: timeline
     content:
-      title: Project Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="bmws" >}}
+      title: Timeline
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Walleye Acoustic Telemetry & Archival Tag
+          company: 
+          company_url: ''
+          company_logo: 
+          location: Escanaba, Sparkling & McDermott Lakes
+          date_start: '2022-05-01'
+          date_end: ''
+          description: |2-
+              A checklist of things:
+
+              * Habitat use
+              * Movement within systems 
+        - title: Another thing to do
+          company: 
+          company_url: ''
+          company_logo: 
+          location: Location
+          date_start: '2022-05-01'
+          date_end: ''
+          description:
+        - title: McDermott Lake Centrarchid Removal
+          company: 
+          company_url: ''
+          company_logo: 
+          location: McDermott Lake, WI
+          date_start: '2018-06-01'
+          date_end: '2021-09-01'
+          description: Removal summary
     design:
-      columns: '1'
-      view: card
+      columns: '2'
+  - block: collection
+    id: pubs
+    content:
+      title: Project Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
       
   - block: about.avatar
     id: about
@@ -149,49 +199,7 @@ sections:
           description: 
           icon: 
           icon_pack:
-  - block: experience
-    id: timeline
-    content:
-      title: Timeline
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Walleye Acoustic Telemetry & Archival Tag
-          company: 
-          company_url: ''
-          company_logo: 
-          location: Escanaba, Sparkling & McDermott Lakes
-          date_start: '2022-05-01'
-          date_end: ''
-          description: |2-
-              A checklist of things:
-
-              * Habitat use
-              * Movement within systems 
-        - title: Another thing to do
-          company: 
-          company_url: ''
-          company_logo: 
-          location: Location
-          date_start: '2022-05-01'
-          date_end: ''
-          description:
-        - title: McDermott Lake Centrarchid Removal
-          company: 
-          company_url: ''
-          company_logo: 
-          location: McDermott Lake, WI
-          date_start: '2018-06-01'
-          date_end: '2021-09-01'
-          description: Removal summary
-    design:
-      columns: '2'
+  
 #  - block: accomplishments
 #    content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -270,21 +278,7 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  - block: collection
-    id: pubs
-    content:
-      title: Project Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+
 #  - block: collection
 #    id: talks
 #    content:
@@ -300,6 +294,15 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
+  - block: markdown
+    content:
+      title: Project Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="bmws" >}}
+    design:
+      columns: '1'
+      view: card
   - block: contact
     id: contact
     content:
