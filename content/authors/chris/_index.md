@@ -10,7 +10,7 @@ last_name: Rounds
 superuser: false
 
 # Role/position/tagline
-role: MS Student (continuing PhD) - University of Minnesota - Twin Cities 
+role: PhD Student - University of Minnesota - Twin Cities 
 
 # Organizations/Affiliations to show in About widget
 organizations:
