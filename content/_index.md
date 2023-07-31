@@ -295,15 +295,15 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-  - block: markdown
-    content:
-      title: Project Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="bmws" >}}
-    design:
-      columns: '1'
-      view: card
+#  - block: markdown
+#    content:
+#      title: Project Gallery
+#      subtitle: ''
+#      text: |-
+#        {{< gallery album="bmws" >}}
+#    design:
+#      columns: '1'
+#      view: card
   - block: contact
     id: contact
     content:
