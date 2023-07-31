@@ -91,14 +91,14 @@ sections:
           date_start: '2022-05-01'
           date_end: ''
           description:
-        - title: McDermott Lake Centrarchid Removal
+        - title: Climate Change and Resilience of Sport Fisheries in Lakes 
           company: 
-          company_url: ''
+          company_url: 'https://www.sciencebase.gov/catalog/item/52b4603ee4b029a4958d603f'
           company_logo: 
-          location: McDermott Lake, WI
-          date_start: '2018-06-01'
-          date_end: '2021-09-01'
-          description: Removal summary
+          location: Wisconsin, USA
+          date_start: '2011-04-01'
+          date_end: '2015-04-01'
+          description: summary
     design:
       columns: '2'
   - block: collection
