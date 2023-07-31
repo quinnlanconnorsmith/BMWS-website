@@ -6,16 +6,16 @@
 main:
   - name: People
     url: '#about'
-    weight: 10
+    weight: 40
   - name: Timeline
     url: '#timeline'
     weight: 20
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 10
   - name: Publications
     url: '#pubs'
-    weight: 50
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 60
