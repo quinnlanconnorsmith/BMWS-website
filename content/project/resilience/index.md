@@ -1,5 +1,5 @@
 ---
-title: Climate Change and Resilience of Sport Fisheries in Lakes
+title: Safe Operating Space for Walleye: Managing Inland Recreational Fisheries for Climate Change
 authors:
 - jake
 - gretchen
