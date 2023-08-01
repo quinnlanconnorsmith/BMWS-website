@@ -40,7 +40,7 @@ image:
 ---
 
 Principal Investigator :
-Holly S Embke
+Holly Embke
 
 Co-Investigators :
 Zach Feiner, Gretchen Hansen, Daniel Isermann, Jake Vander Zanden
