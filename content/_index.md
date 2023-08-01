@@ -45,12 +45,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Past Projects
-          tag: past
-        - name: Another Project
-          tag: Demo
-        - name: Habitat Modeling
-          tag: Habitat Modeling
+        - name: Previous Projects
+          tag: Previous Project
+        - name: Current Projects
+          tag: Current Project
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
