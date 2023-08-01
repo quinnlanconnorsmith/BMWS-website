@@ -1,5 +1,5 @@
 ---
-title: Safe Operating Space for Walleye: Managing Inland Recreational Fisheries for Climate Change
+title: Safe Operating Space for Walleye Managing Inland Recreational Fisheries for Climate Change
 authors:
 - jake
 - gretchen
