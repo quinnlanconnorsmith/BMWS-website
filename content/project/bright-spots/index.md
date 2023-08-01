@@ -2,14 +2,14 @@
 title: Walleye Fisheries Bright Spots in a Changing Climate
 summary:  Rather than focusing on understanding walleye population declines, this project’s approach is to probe the factors that underlie successful, thriving fisheries. Focusing on ‘bright spots’ and examples of ’success’ tends to highlight innovations, social context, and the possibility of more effective fisheries management in the face of environmental change. 
 authors: 
--holly
--gretchen
--jake
--olaf
--zach
--ben
--chris
--quinn
+- holly
+- gretchen
+- jake
+- olaf
+- zach
+- ben
+- chris
+- admin
 tags:
   - Current Project
 date: '2016-04-27T00:00:00Z'
