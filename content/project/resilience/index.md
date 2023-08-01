@@ -1,10 +1,9 @@
 ---
 title: Safe Operating Space for Walleye Managing Inland Recreational Fisheries for Climate Change
 authors:
-- jake
-- gretchen
 
-summary: Sport fisheries of lakes are embedded in complex system of ecological and social interactions. The multiple drivers that affect lake sport fisheries, along with the complex interactions within lakes, make it difficult to forecast changes in sport fisheries and plan adaptive responses to build resilience of these important resources. Resilience involves managing with an eye toward critical thresholds for behavior of ecosystems.
+
+summary: Walleye, a socially and economically important sportfish across much of North America, are experiencing population declines in many lakes throughout their range. Studies suggest that multiple factors – potentially linked to climate change – are contributing to the decline of walleye, including changes in lake temperatures, loss of habitat, increasing water clarity (perhaps due to drought), and interactions with other fish.
 tags:
   - Previous Project
 date: '2016-04-27T00:00:00Z'
@@ -34,10 +33,7 @@ image:
 #slides: example
 ---
 
-Principal Investigators :
-Steve Carpenter, Jake Vander Zanden
+Principal Investigator :
+Daniel Isermann
 
-Co-Investigators :
-Jon Hansen, Gretchen Hansen, Joseph Hennessey, Steve Hewett, Daniel Iserman, John Lyons
-
-Sport fisheries of lakes are embedded in complex system of ecological and social interactions. The multiple drivers that affect lake sport fisheries, along with the complex interactions within lakes, make it difficult to forecast changes in sport fisheries and plan adaptive responses to build resilience of these important resources. Resilience involves managing with an eye toward critical thresholds for behavior of ecosystems. Project researchers are working to develop quantitative tools for assessment of thresholds in sport fisheries that can be used by management agencies to evaluate potential impacts of climate change mediated through species and habitat interactions. Several outputs of the project will be adaptable to other assessments of resilience of sport fisheries, including bioenergetics and ecosystem models to assess thresholds; delineation of Thresholds of Concern for regional sport fisheries subject to changing climate, land use and angling effort; and assessments of the capacity of management tools to alter critical thresholds for sport fisheries. To focus the work, the research team is addressing thresholds for replacement of cool-water sport fish by warm-water sport fish, using the specific example of walleye and bass in the Upper Midwestern U.S. Climate change has obvious implications for transitions between thermal guilds, but details of species interactions, changes in nearshore habitat, invasive species, angler behavior, regulations or many other factors are likely to affect the thresholds for transition between cool and warm water fishes and we will address these complex interactions. 
+Walleye, a socially and economically important sportfish across much of North America, are experiencing population declines in many lakes throughout their range. Studies suggest that multiple factors – potentially linked to climate change – are contributing to the decline of walleye, including changes in lake temperatures, loss of habitat, increasing water clarity (perhaps due to drought), and interactions with other fish. This research seeks to identify the mechanisms that underlie declining walleye populations, particularly the low survival rate of young walleye. Data will be collected through a whole-lake experiment, an analysis of long-term data from lakes in northern Wisconsin, and simulation modeling. Members of the research team will work closely with fisheries managers. The goal of this project is to increase our understanding of the conditions that are needed to maintain self-sustaining walleye populations (their “safe operating space”) and to inform a new vision for recreational fisheries management in a changing climate. 
