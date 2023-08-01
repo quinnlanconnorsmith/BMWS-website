@@ -1,6 +1,7 @@
 ---
 title: Safe Operating Space for Walleye: Managing Inland Recreational Fisheries for Climate Change
-authors: admin
+authors: 
+- admin
 
 
 summary: Walleye, a socially and economically important sportfish across much of North America, are experiencing population declines in many lakes throughout their range. Studies suggest that multiple factors – potentially linked to climate change – are contributing to the decline of walleye, including changes in lake temperatures, loss of habitat, increasing water clarity (perhaps due to drought), and interactions with other fish. 
