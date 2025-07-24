@@ -41,7 +41,7 @@ abstract: "A lot can be learned by studying bright spots—defined as unexpected
 summary:  
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
