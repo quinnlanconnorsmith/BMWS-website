@@ -1,14 +1,14 @@
 ---
 title: "Bright spots for advancing ecological understanding and conservation decision-making"
 authors:
-- Holly S. Embke
-- Zachary S. Feiner
-- Gretchen J.A. Hansen
+- holly
+- zach
+- gretchen
 - Daniel Isermann
-- Olaf P. Jensen
-- Christopher I. Rounds
+- olaf
+- chris
 - admin
-- M. Jake Vander Zanden
+- jake
 author_notes:
 - "Midwest Climate Adaptation Science Center, U.S.Geological Survey, St. Paul, Minnesota, USA"
 - "Ofﬁce of Applied Science, Wisconsin Department of Natural Resources, Science Operations Center,Madison, Wisconsin, USA, Center for Limnology, University of Wisconsin–Madison, Madison, Wisconsin, USA"
@@ -41,7 +41,7 @@ abstract: "A lot can be learned by studying bright spots—defined as unexpected
 summary:  
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
