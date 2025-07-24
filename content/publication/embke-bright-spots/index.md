@@ -4,7 +4,7 @@ authors:
 - holly
 - zach
 - gretchen
-- Daniel Isermann
+- Dr. Daniel Isermann
 - olaf
 - chris
 - admin
